@@ -1,0 +1,10 @@
+{
+	"defName":"ReplaceTraitShortcut",
+	"command":"replacetrait",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}
