@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -1999,132 +1999,6 @@
       "degree": -1
     },
     {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
-      "stats": [
-        "+10% pain shock threshold",
-        "-15% mental break threshold"
-      ],
-      "conflicts": [
-        "carefulshooter",
-        "trigger-happy",
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "NewRatkinPlus",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "carefulshooter",
-          "trigger-happy",
-          "wimp"
-        ],
-        "stats": [
-          "+10% pain shock threshold",
-          "-15% mental break threshold"
-        ]
-      },
-      "defName": "Faith",
-      "name": "faith",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [
 
@@ -3805,6 +3679,172 @@
       "degree": 0
     },
     {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is gives a strange impression to the opponent.",
+      "stats": [
+        "+2 social",
+        "-4% mental break threshold",
+        "+15.00% train animal chance",
+        "+15.00% tame animal chance",
+        "+15.00% trade price improvement",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ferian Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 social",
+          "-4% mental break threshold",
+          "+15.00% train animal chance",
+          "+15.00% tame animal chance",
+          "+15.00% trade price improvement",
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "Miraculous",
+      "name": "mysteriousenergy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ]
+      },
+      "defName": "Faith",
+      "name": "faith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
       "description": "A mechanized infantry unit, they do not think or feel.",
       "stats": [
         "-90.00% social impact"
@@ -4003,6 +4043,37 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+$2000 Market value",
+          "+6.24 Move speed",
+          "+50% Flammability",
+          "-16.2F Minimum comfortable temperature",
+          "+43.2F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+120% Research speed",
+          "+75% Mining speed",
+          "+120.00% Social impact",
+          "+75% Construction speed",
+          "+120% Animal gather speed",
+          "+120% Animal gather yield",
+          "+115% Immunity gain speed",
+          "+150% Psychic sensitivity",
+          "+4.0 Shooting accuracy",
+          "+4 Honor value"
+        ],
+        "mod": "Ferian Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
+      "defName": "AFerian",
+      "enabled": true,
+      "name": "Ferian",
+      "price": 3333
     },
     {
       "data": {
@@ -4338,6 +4409,216 @@
       "enabled": true,
       "name": "hologram",
       "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+130% Immunity gain speed",
+          "+80% Global learning factor",
+          "+70% Toxic sensitivity",
+          "+$1500 Market value",
+          "+4.90 Move speed",
+          "-10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+140% Smoothing speed",
+          "+100% Construction speed",
+          "+100% Research speed",
+          "+140% Mining speed",
+          "+70.00% Social impact",
+          "+1.2 Melee dodge chance",
+          "+0.0% Armor - Blunt",
+          "+7.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Warhammer: Skaven",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Skaven, ratmen or ratkins. They are a malevolent and diabolical race of large humanoid rat-creatures.",
+      "defName": "Alien_Skaven",
+      "enabled": true,
+      "name": "skaven",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+130% Immunity gain speed",
+          "+80% Global learning factor",
+          "+70% Toxic sensitivity",
+          "+$1570 Market value",
+          "+4.90 Move speed",
+          "-10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Smoothing speed",
+          "+100% Construction speed",
+          "+80% Research speed",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+1.2 Melee dodge chance",
+          "+5.0% Armor - Blunt",
+          "+8.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Warhammer: Skaven",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A large skaven, born stronger than the rest. They are bigger and stonger than the normal clanrats that lives across the skaven holds. They are aggressive by nature and are given to overt displays of prowess in order to intimidate those around them.",
+      "defName": "Alien_SkavenStorm",
+      "enabled": true,
+      "name": "Vermin",
+      "price": 2617
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+130% Pain shock threshold",
+          "+160% Immunity gain speed",
+          "+120% Global learning factor",
+          "+50% Toxic sensitivity",
+          "+$2500 Market value",
+          "+4.90 Move speed",
+          "-10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+140% Smoothing speed",
+          "+100% Construction speed",
+          "+140% Research speed",
+          "+100% Mining speed",
+          "+120.00% Social impact",
+          "+1.2 Melee dodge chance",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Warhammer: Skaven",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A skaven with horns are blessed by the horned rat. They stand atop of the hierarchy, leading the councils with visions and advise.",
+      "defName": "Alien_HornedSkaven",
+      "enabled": true,
+      "name": "horned skaven",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+120% Flammability",
+          "+100% Psychic sensitivity",
+          "+130% Pain shock threshold",
+          "+200% Immunity gain speed",
+          "+150% Global learning factor",
+          "+50% Toxic sensitivity",
+          "+$2500 Market value",
+          "+4.90 Move speed",
+          "-10.8F Minimum comfortable temperature",
+          "+50.4F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Smoothing speed",
+          "+100% Construction speed",
+          "+140% Research speed",
+          "+75% Mining speed",
+          "+50.00% Social impact",
+          "+1.0 Melee dodge chance",
+          "+35.0% Armor - Blunt",
+          "+30.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Warhammer: Skaven",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Skaven of clan Moulder, often of senior-rank. Rat-men with vile knowledge of clan Moulder secrets, scarred and mutated form their practice in the laboratories deep under the surface.",
+      "defName": "Alien_SkavenMoulder",
+      "enabled": true,
+      "name": "Moulder skaven",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$3200 Market value",
+          "+110 Carrying capacity",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+85% Rest rate multiplier",
+          "+90% Immunity gain speed",
+          "+90% Global work speed",
+          "+0.5 Foraged food amount",
+          "+90.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
+          "+40 Leather amount",
+          "+85% Pain shock threshold",
+          "+21.6F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+6.80 Move speed",
+          "+100% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Epona race Renaissance",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Epona is a humanoid creature whose origin is completely unknown except that it has its origin in Glitterworld. Some scholars view Epona as a kind of chimera with insects, not a gene-binding race with horses. Whatever the truth is. Epona considers themselves a centaur. They have established their own kingdoms in the name of horses in Rimworlds on the periphery.",
+      "defName": "Alien_Epona",
+      "enabled": true,
+      "name": "Epona",
+      "price": 5333
+    },
+    {
+      "data": {
+        "stats": [
+          "+130.00 Mass",
+          "+100% Flammability",
+          "+$5000 Market value",
+          "+180 Carrying capacity",
+          "+75% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+75% Rest rate multiplier",
+          "+85% Immunity gain speed",
+          "+95% Global work speed",
+          "+0 Foraged food amount",
+          "+90.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
+          "+70 Leather amount",
+          "+85% Pain shock threshold",
+          "+18.0F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+7.20 Move speed",
+          "+100% Aiming time",
+          "+3.0 Melee dodge chance",
+          "+1.4 Melee hit chance"
+        ],
+        "mod": "Epona race Renaissance",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Epona, which has become huge due to a problem with the gene called Destrier Syndrome. Only women get Destrier syndrome and get stronger to match their size, but they become a little stupid.",
+      "defName": "Alien_Destrier",
+      "enabled": true,
+      "name": "Destrier",
+      "price": 8333
     }
   ]
 }
